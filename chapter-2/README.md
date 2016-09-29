@@ -10,3 +10,15 @@ Write a program that uses only two output statements, cout << "#" cout "\n", to 
 ##
 #
 ```
+
+##Problem: A Sideways Triangle
+Write a program that uses only two output statements, cout << "#" and cout << "\n", to produce a pattern of hash symbols shaped like a sideways triangle:
+```
+#
+##
+###
+####
+###
+##
+#
+```
